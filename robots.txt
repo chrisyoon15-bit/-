@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /thanks.html
+
+# TODO(확인 필요): 실제 도메인으로 교체
+Sitemap: https://example.netlify.app/sitemap.xml

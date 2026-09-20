@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 에디터
+.vscode/
+.idea/
+*.swp
+
+# Netlify
+.netlify/
+
+# 의존성 (현재는 없음, 추후 빌드 도구 도입 시)
+node_modules/
